@@ -1,4 +1,4 @@
-# brisbane-laravel-meetup
+# Brisbane & Gold Coast Laravel Meetup 
 
 A growing group of Laravel developers based in Brisbane and the Gold Coast.
 
