@@ -7,6 +7,7 @@ Join us! [Brisbane Laravel Meetup](https://www.meetup.com/Brisbane-Laravel-PHP-C
 ### Organisers
 
 [Mick Davies](https://www.linkedin.com/in/mickdaviesaus/) - CTO at Universal Technology Australia / Universal Trusses
+
 [Matthew Rainbird](https://www.linkedin.com/in/matthewrainbird/) - Digital Consultant at JDP (Brisbane)
 
 Want to get involved? Get in touch with our organisers today!
